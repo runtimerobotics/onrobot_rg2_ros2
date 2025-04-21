@@ -61,3 +61,7 @@ ros2 topic pub /send_gripper_cmd std_msgs/msg/Int32 "{data: 0}" --once
 ```
 
 We can publish any value from **0 -> 1100**
+
+# Reference 
+
+* [OnRobot RG GitHub Repository](https://github.com/runtimerobotics/onrobot-rg)
